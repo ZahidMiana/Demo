@@ -1,3 +1,4 @@
 # Demo
-This Demo Repo for Learning Git
+This Demo Repo for Learning Git.
+<br>
 Author Zahid iqbal
